@@ -37,8 +37,8 @@
 
 ## Endpoins
 
-- API documentation: http://localhost:8082/swagger-ui.html
-- H2 console: http://localhost:8082/h2-console (default options)
+- API documentation: http://localhost:8080/swagger-ui.html
+- H2 console: http://localhost:8080/h2-console (default options)
  
 ## TODO
 
